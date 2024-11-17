@@ -1,6 +1,6 @@
-# twopages
+# Vue webpage
 
-This template should help get you started developing with Vue 3 in Vite.
+Following the development of its predecessor python version, together with @SpanishBeastMode, we developed a webpage mainly based on view
 
 ## Recommended IDE Setup
 
