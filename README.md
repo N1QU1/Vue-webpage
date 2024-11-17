@@ -1,6 +1,6 @@
 # Vue webpage
 
-Following the development of its predecessor python version, together with @SpanishBeastMode, we developed a webpage mainly based on view
+Following the development of its predecessor python version, together with @SpanishBeastMode, we developed a webpage mainly based on vue
 
 ## Recommended IDE Setup
 
